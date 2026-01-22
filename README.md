@@ -18,6 +18,7 @@ This project is a **Library Management System** created as part of my learning j
 ## 🛠️ Technologies Used
 
 * **Python**
+* **SQL**
 
 ---
 
